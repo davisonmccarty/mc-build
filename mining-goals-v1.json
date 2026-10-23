@@ -1,0 +1,4214 @@
+{
+  "schema": 1,
+  "revision": "dec128fa018ba664f16a58104fa0cf531342fbbf",
+  "updated": "2026-10-23",
+  "source": "https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO",
+  "goals": [
+    {
+      "id": "access_deep",
+      "title": "Reach the Deep Caverns",
+      "category": "Access",
+      "stage": 1,
+      "hotm": 0,
+      "description": "Build early Mining levels and unlock the underground ore areas.",
+      "steps": [
+        "Reach Mining V.",
+        "Travel from the Gold Mine to the Deep Caverns."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "visit_deep",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "access_dwarven",
+      "title": "Enter the Dwarven Mines",
+      "category": "Access",
+      "stage": 2,
+      "hotm": 0,
+      "description": "Unlock commissions, Mithril, Titanium, the Forge and Heart of the Mountain.",
+      "steps": [
+        "Reach Mining XII.",
+        "Speak to Rhys in the Obsidian Sanctuary and inspect the current material trade.",
+        "Enter the Dwarven Mines."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "visit_dwarven",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "access_hollows",
+      "title": "Enter the Crystal Hollows",
+      "category": "Access",
+      "stage": 3,
+      "hotm": 3,
+      "description": "A gemstone, nucleus and powder progression branch.",
+      "steps": [
+        "Reach HotM III.",
+        "Speak to Gwendolyn and obtain an entry pass."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "visit_hollows",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "access_tunnels",
+      "title": "Enter the Glacite Tunnels",
+      "category": "Access",
+      "stage": 7,
+      "hotm": 7,
+      "description": "Late mining progression with Glacite Powder, Mineshafts and fossils.",
+      "steps": [
+        "Reach HotM VII.",
+        "Complete the current Dwarven base-camp entry quest.",
+        "Prepare Cold resistance and a suitable drill."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "visit_tunnels",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_1",
+      "title": "Heart of the Mountain 1",
+      "category": "HotM",
+      "stage": 1,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_2",
+      "title": "Heart of the Mountain 2",
+      "category": "HotM",
+      "stage": 2,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 2,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_3",
+      "title": "Heart of the Mountain 3",
+      "category": "HotM",
+      "stage": 3,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 3,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_4",
+      "title": "Heart of the Mountain 4",
+      "category": "HotM",
+      "stage": 4,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 4,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_5",
+      "title": "Heart of the Mountain 5",
+      "category": "HotM",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 5,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_6",
+      "title": "Heart of the Mountain 6",
+      "category": "HotM",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 6,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_7",
+      "title": "Heart of the Mountain 7",
+      "category": "HotM",
+      "stage": 7,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 7,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_8",
+      "title": "Heart of the Mountain 8",
+      "category": "HotM",
+      "stage": 8,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 8,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_9",
+      "title": "Heart of the Mountain 9",
+      "category": "HotM",
+      "stage": 9,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 9,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "hotm_10",
+      "title": "Heart of the Mountain 10",
+      "category": "HotM",
+      "stage": 10,
+      "hotm": 0,
+      "description": "Earn HotM XP through commissions and mining activities. Higher tiers unlock perks, gear and areas.",
+      "steps": [
+        "Complete daily bonus commissions first.",
+        "Open Heart of the Mountain to read your unlocked tier."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "hotm",
+      "target": 10,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_5",
+      "title": "Mining level 5",
+      "category": "Skills & Collections",
+      "stage": 1,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 5,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_12",
+      "title": "Mining level 12",
+      "category": "Skills & Collections",
+      "stage": 2,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 12,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_20",
+      "title": "Mining level 20",
+      "category": "Skills & Collections",
+      "stage": 3,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_25",
+      "title": "Mining level 25",
+      "category": "Skills & Collections",
+      "stage": 4,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 25,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_30",
+      "title": "Mining level 30",
+      "category": "Skills & Collections",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 30,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_40",
+      "title": "Mining level 40",
+      "category": "Skills & Collections",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 40,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_50",
+      "title": "Mining level 50",
+      "category": "Skills & Collections",
+      "stage": 8,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "mining_60",
+      "title": "Mining level 60",
+      "category": "Skills & Collections",
+      "stage": 10,
+      "hotm": 0,
+      "description": "Increase Mining XP through mining and mining activities.",
+      "steps": [
+        "Open Your Skills \u2192 Mining to confirm your current level."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "mining_level",
+      "target": 60,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "item_rookie_pickaxe",
+      "title": "Rookie Pickaxe",
+      "category": "Tools",
+      "stage": 1,
+      "hotm": 0,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment."
+      ],
+      "items": [
+        "ROOKIE_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Rookie_Pickaxe"
+    },
+    {
+      "id": "item_promising_pickaxe",
+      "title": "Promising Pickaxe",
+      "category": "Tools",
+      "stage": 1,
+      "hotm": 0,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment."
+      ],
+      "items": [
+        "PROMISING_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "IRON_BLOCK",
+          "name": "Iron Block",
+          "count": 3
+        },
+        {
+          "id": "STICK",
+          "name": "Stick",
+          "count": 2
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Promising_Pickaxe"
+    },
+    {
+      "id": "item_lapis_pickaxe",
+      "title": "Lapis Pickaxe",
+      "category": "Tools",
+      "stage": 1,
+      "hotm": 0,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment."
+      ],
+      "items": [
+        "LAPIS_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "INK_SACK-4",
+          "name": "Ink Sack-4",
+          "count": 512
+        },
+        {
+          "id": "IRON_PICKAXE",
+          "name": "Iron Pickaxe",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Lapis_Pickaxe"
+    },
+    {
+      "id": "item_fractured_mithril_pickaxe",
+      "title": "Fractured Mithril Pickaxe",
+      "category": "Tools",
+      "stage": 2,
+      "hotm": 0,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment."
+      ],
+      "items": [
+        "FRACTURED_MITHRIL_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Fractured_Mithril_Pickaxe"
+    },
+    {
+      "id": "item_bandaged_mithril_pickaxe",
+      "title": "Bandaged Mithril Pickaxe",
+      "category": "Tools",
+      "stage": 2,
+      "hotm": 2,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 2."
+      ],
+      "items": [
+        "BANDAGED_MITHRIL_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Bandaged_Mithril_Pickaxe"
+    },
+    {
+      "id": "item_mithril_pickaxe",
+      "title": "Mithril Pickaxe",
+      "category": "Tools",
+      "stage": 2,
+      "hotm": 2,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 2."
+      ],
+      "items": [
+        "MITHRIL_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Pickaxe"
+    },
+    {
+      "id": "item_refined_mithril_pickaxe",
+      "title": "Refined Mithril Pickaxe",
+      "category": "Tools",
+      "stage": 3,
+      "hotm": 3,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 3."
+      ],
+      "items": [
+        "REFINED_MITHRIL_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Refined_Mithril_Pickaxe"
+    },
+    {
+      "id": "item_titanium_pickaxe",
+      "title": "Titanium Pickaxe",
+      "category": "Tools",
+      "stage": 3,
+      "hotm": 3,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 3."
+      ],
+      "items": [
+        "TITANIUM_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Pickaxe"
+    },
+    {
+      "id": "item_rusty_titanium_pickaxe",
+      "title": "Rusty Titanium Pickaxe",
+      "category": "Tools",
+      "stage": 3,
+      "hotm": 0,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment."
+      ],
+      "items": [
+        "RUSTY_TITANIUM_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Rusty_Titanium_Pickaxe"
+    },
+    {
+      "id": "item_refined_titanium_pickaxe",
+      "title": "Polished Titanium Pickaxe",
+      "category": "Tools",
+      "stage": 4,
+      "hotm": 4,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 4."
+      ],
+      "items": [
+        "REFINED_TITANIUM_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Polished_Titanium_Pickaxe"
+    },
+    {
+      "id": "item_pickonimbus",
+      "title": "Pickonimbus 2000",
+      "category": "Tools",
+      "stage": 4,
+      "hotm": 4,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 4."
+      ],
+      "items": [
+        "PICKONIMBUS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Pickonimbus_2000"
+    },
+    {
+      "id": "item_jungle_pickaxe",
+      "title": "Jungle Pickaxe",
+      "category": "Tools",
+      "stage": 4,
+      "hotm": 4,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 4."
+      ],
+      "items": [
+        "JUNGLE_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Pickaxe"
+    },
+    {
+      "id": "item_stonk_pickaxe",
+      "title": "Fortunate Stonk",
+      "category": "Tools",
+      "stage": 5,
+      "hotm": 0,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment."
+      ],
+      "items": [
+        "STONK_PICKAXE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Stonk"
+    },
+    {
+      "id": "item_gemstone_gauntlet",
+      "title": "Gemstone Gauntlet",
+      "category": "Tools",
+      "stage": 5,
+      "hotm": 6,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 6."
+      ],
+      "items": [
+        "GEMSTONE_GAUNTLET"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "FLAWLESS_RUBY_GEM",
+          "name": "Flawless Ruby Gem",
+          "count": 8
+        },
+        {
+          "id": "ENCHANTED_GOLD_BLOCK",
+          "name": "Enchanted Gold Block",
+          "count": 16
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Gauntlet"
+    },
+    {
+      "id": "item_mithril_drill_1",
+      "title": "Mithril Drill SX-R226",
+      "category": "Drills",
+      "stage": 5,
+      "hotm": 2,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 2.",
+        "Forge duration per item: 14,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_DRILL_1"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_MITHRIL",
+          "name": "Refined Mithril",
+          "count": 3
+        },
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 1
+        },
+        {
+          "id": "FUEL_TANK",
+          "name": "Fuel Canister",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Drill_SX-R226"
+    },
+    {
+      "id": "item_mithril_drill_2",
+      "title": "Mithril Drill SX-R326",
+      "category": "Drills",
+      "stage": 6,
+      "hotm": 3,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_DRILL_2"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GOLDEN_PLATE",
+          "name": "Golden Plate",
+          "count": 1
+        },
+        {
+          "id": "MITHRIL_DRILL_1",
+          "name": "Mithril Drill SX-R226",
+          "count": 1
+        },
+        {
+          "id": "MITHRIL_PLATE",
+          "name": "Mithril Plate",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Drill_SX-R326"
+    },
+    {
+      "id": "item_gemstone_drill_1",
+      "title": "Ruby Drill TX-15",
+      "category": "Drills",
+      "stage": 6,
+      "hotm": 4,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 4.",
+        "Forge duration per item: 14,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "GEMSTONE_DRILL_1"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 1
+        },
+        {
+          "id": "FUEL_TANK",
+          "name": "Fuel Canister",
+          "count": 1
+        },
+        {
+          "id": "FINE_RUBY_GEM",
+          "name": "Fine Ruby Gem",
+          "count": 6
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Ruby_Drill_Model_TX-15"
+    },
+    {
+      "id": "item_gemstone_drill_2",
+      "title": "Gemstone Drill LT-522",
+      "category": "Drills",
+      "stage": 6,
+      "hotm": 4,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 4.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "GEMSTONE_DRILL_2"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GEMSTONE_DRILL_1",
+          "name": "Ruby Drill TX-15",
+          "count": 1
+        },
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 3
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Drill_Model_LT-522"
+    },
+    {
+      "id": "item_gemstone_drill_3",
+      "title": "Topaz Drill KGR-12",
+      "category": "Drills",
+      "stage": 7,
+      "hotm": 5,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "GEMSTONE_DRILL_3"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "FLAWLESS_TOPAZ_GEM",
+          "name": "Flawless Topaz Gem",
+          "count": 1
+        },
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 3
+        },
+        {
+          "id": "GEMSTONE_DRILL_2",
+          "name": "Gemstone Drill LT-522",
+          "count": 1
+        },
+        {
+          "id": "MAGMA_CORE",
+          "name": "Magma Core",
+          "count": 8
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Topaz_Drill_KGR-12"
+    },
+    {
+      "id": "item_gemstone_drill_4",
+      "title": "Jasper Drill X",
+      "category": "Drills",
+      "stage": 7,
+      "hotm": 6,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 6.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "GEMSTONE_DRILL_4"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "TREASURITE",
+          "name": "Treasurite",
+          "count": 100
+        },
+        {
+          "id": "FLAWLESS_JASPER_GEM",
+          "name": "Flawless Jasper Gem",
+          "count": 1
+        },
+        {
+          "id": "GEMSTONE_DRILL_3",
+          "name": "Topaz Drill KGR-12",
+          "count": 1
+        },
+        {
+          "id": "MAGMA_CORE",
+          "name": "Magma Core",
+          "count": 16
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Jasper_Drill_X"
+    },
+    {
+      "id": "item_titanium_drill_1",
+      "title": "Titanium Drill DR-X355",
+      "category": "Drills",
+      "stage": 7,
+      "hotm": 5,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 14,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_DRILL_1"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "FUEL_TANK",
+          "name": "Fuel Canister",
+          "count": 1
+        },
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 1
+        },
+        {
+          "id": "REFINED_MITHRIL",
+          "name": "Refined Mithril",
+          "count": 8
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 8
+        },
+        {
+          "id": "GOLDEN_PLATE",
+          "name": "Golden Plate",
+          "count": 6
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X355"
+    },
+    {
+      "id": "item_titanium_drill_2",
+      "title": "Titanium Drill DR-X455",
+      "category": "Drills",
+      "stage": 8,
+      "hotm": 5,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_DRILL_2"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "MITHRIL_PLATE",
+          "name": "Mithril Plate",
+          "count": 5
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 12
+        },
+        {
+          "id": "REFINED_DIAMOND",
+          "name": "Refined Diamond",
+          "count": 10
+        },
+        {
+          "id": "TITANIUM_DRILL_1",
+          "name": "Titanium Drill DR-X355",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X455"
+    },
+    {
+      "id": "item_titanium_drill_3",
+      "title": "Titanium Drill DR-X555",
+      "category": "Drills",
+      "stage": 8,
+      "hotm": 5,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_DRILL_3"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_DIAMOND",
+          "name": "Refined Diamond",
+          "count": 20
+        },
+        {
+          "id": "ENCHANTED_IRON_BLOCK",
+          "name": "Enchanted Iron Block",
+          "count": 2
+        },
+        {
+          "id": "PLASMA",
+          "name": "Plasma",
+          "count": 20
+        },
+        {
+          "id": "TITANIUM_DRILL_2",
+          "name": "Titanium Drill DR-X455",
+          "count": 1
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 16
+        },
+        {
+          "id": "MITHRIL_PLATE",
+          "name": "Mithril Plate",
+          "count": 10
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X555"
+    },
+    {
+      "id": "item_titanium_drill_4",
+      "title": "Titanium Drill DR-X655",
+      "category": "Drills",
+      "stage": 8,
+      "hotm": 6,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 6.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_DRILL_4"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 16
+        },
+        {
+          "id": "FLAWLESS_RUBY_GEM",
+          "name": "Flawless Ruby Gem",
+          "count": 1
+        },
+        {
+          "id": "MITHRIL_PLATE",
+          "name": "Mithril Plate",
+          "count": 10
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 32
+        },
+        {
+          "id": "CORLEONITE",
+          "name": "Corleonite",
+          "count": 30
+        },
+        {
+          "id": "TITANIUM_DRILL_3",
+          "name": "Titanium Drill DR-X555",
+          "count": 1
+        },
+        {
+          "id": "REFINED_DIAMOND",
+          "name": "Refined Diamond",
+          "count": 5
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Drill_DR-X655"
+    },
+    {
+      "id": "item_divan_drill",
+      "title": "Divan's Drill",
+      "category": "Drills",
+      "stage": 9,
+      "hotm": 7,
+      "description": "A tool option for your mining route. Compare breaking power, requirements and specialized bonuses before upgrading.",
+      "steps": [
+        "Choose this goal only if it suits your ore, powder or gemstone route.",
+        "Obtain the item; it is confirmed when seen in your inventory or equipment.",
+        "\u2763 Requires Heart of the Mountain Tier 7.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "DIVAN_DRILL"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "TITANIUM_DRILL_4",
+          "name": "Titanium Drill DR-X655",
+          "count": 1
+        },
+        {
+          "id": "SKYBLOCK_COIN",
+          "name": "Skyblock Coin",
+          "count": 50000000
+        },
+        {
+          "id": "DIVAN_ALLOY",
+          "name": "Divan's Alloy",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Divan%27s_Drill"
+    },
+    {
+      "id": "armor_lapis_armor",
+      "title": "Lapis Armor",
+      "category": "Armor",
+      "stage": 1,
+      "hotm": 0,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it.",
+        "\u2763 Requires Mining Skill 5."
+      ],
+      "items": [
+        "LAPIS_ARMOR_HELMET",
+        "LAPIS_ARMOR_CHESTPLATE",
+        "LAPIS_ARMOR_LEGGINGS",
+        "LAPIS_ARMOR_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Lapis_Armor_Boots"
+    },
+    {
+      "id": "armor_goblin",
+      "title": "Goblin Armor",
+      "category": "Armor",
+      "stage": 2,
+      "hotm": 0,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it."
+      ],
+      "items": [
+        "GOBLIN_HELMET",
+        "GOBLIN_CHESTPLATE",
+        "GOBLIN_LEGGINGS",
+        "GOBLIN_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Goblin_Boots"
+    },
+    {
+      "id": "armor_glacite",
+      "title": "Glacite Armor",
+      "category": "Armor",
+      "stage": 2,
+      "hotm": 0,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it."
+      ],
+      "items": [
+        "GLACITE_HELMET",
+        "GLACITE_CHESTPLATE",
+        "GLACITE_LEGGINGS",
+        "GLACITE_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Boots"
+    },
+    {
+      "id": "armor_mineral",
+      "title": "Mineral Armor",
+      "category": "Armor",
+      "stage": 3,
+      "hotm": 0,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it."
+      ],
+      "items": [
+        "MINERAL_HELMET",
+        "MINERAL_CHESTPLATE",
+        "MINERAL_LEGGINGS",
+        "MINERAL_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 24
+        },
+        {
+          "id": "HARDENED_DIAMOND_HELMET",
+          "name": "Hardened Diamond Helmet",
+          "count": 1
+        },
+        {
+          "id": "HARDENED_DIAMOND_CHESTPLATE",
+          "name": "Hardened Diamond Chestplate",
+          "count": 1
+        },
+        {
+          "id": "HARDENED_DIAMOND_LEGGINGS",
+          "name": "Hardened Diamond Leggings",
+          "count": 1
+        },
+        {
+          "id": "HARDENED_DIAMOND_BOOTS",
+          "name": "Hardened Diamond Boots",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mineral_Boots"
+    },
+    {
+      "id": "armor_sorrow",
+      "title": "Sorrow Armor",
+      "category": "Armor",
+      "stage": 5,
+      "hotm": 5,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it.",
+        "\u2763 Requires Heart of the Mountain Tier 5."
+      ],
+      "items": [
+        "SORROW_HELMET",
+        "SORROW_CHESTPLATE",
+        "SORROW_LEGGINGS",
+        "SORROW_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "SORROW",
+          "name": "Sorrow",
+          "count": 72
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Sorrow_Boots"
+    },
+    {
+      "id": "armor_divan",
+      "title": "Armor of Divan",
+      "category": "Armor",
+      "stage": 6,
+      "hotm": 6,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it.",
+        "\u2763 Requires Heart of the Mountain Tier 6.",
+        "Forge duration per item: 86,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "DIVAN_HELMET",
+        "DIVAN_CHESTPLATE",
+        "DIVAN_LEGGINGS",
+        "DIVAN_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "FLAWLESS_RUBY_GEM",
+          "name": "Flawless Ruby Gem",
+          "count": 4
+        },
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 40
+        },
+        {
+          "id": "DIVAN_FRAGMENT",
+          "name": "Divan Fragment",
+          "count": 24
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Boots_Of_Divan"
+    },
+    {
+      "id": "armor_glossy_mineral",
+      "title": "Glossy Mineral Armor",
+      "category": "Armor",
+      "stage": 7,
+      "hotm": 0,
+      "description": "A complete armor-set milestone. Ore, gemstone and powder routes may prefer different sets.",
+      "steps": [
+        "Obtain all four pieces. Previously observed pieces remain recorded.",
+        "Compare your current set bonuses and gemstone slots before replacing it."
+      ],
+      "items": [
+        "GLOSSY_MINERAL_HELMET",
+        "GLOSSY_MINERAL_CHESTPLATE",
+        "GLOSSY_MINERAL_LEGGINGS",
+        "GLOSSY_MINERAL_BOOTS"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GLOSSY_GEMSTONE",
+          "name": "Glossy Gemstone",
+          "count": 64
+        },
+        {
+          "id": "MINERAL_HELMET",
+          "name": "Mineral Helmet",
+          "count": 1
+        },
+        {
+          "id": "MINERAL_CHESTPLATE",
+          "name": "Mineral Chestplate",
+          "count": 1
+        },
+        {
+          "id": "MINERAL_LEGGINGS",
+          "name": "Mineral Leggings",
+          "count": 1
+        },
+        {
+          "id": "MINERAL_BOOTS",
+          "name": "Mineral Boots",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Glossy_Mineral_Boots"
+    },
+    {
+      "id": "item_mithril_necklace",
+      "title": "Mithril Necklace",
+      "category": "Equipment",
+      "stage": 4,
+      "hotm": 2,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 2.",
+        "Forge duration per item: 3,600 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_NECKLACE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "ENCHANTED_MITHRIL",
+          "name": "Enchanted Mithril",
+          "count": 3
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Necklace"
+    },
+    {
+      "id": "item_mithril_cloak",
+      "title": "Mithril Cloak",
+      "category": "Equipment",
+      "stage": 4,
+      "hotm": 2,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 2.",
+        "Forge duration per item: 3,600 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_CLOAK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "ENCHANTED_MITHRIL",
+          "name": "Enchanted Mithril",
+          "count": 3
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Cloak"
+    },
+    {
+      "id": "item_mithril_belt",
+      "title": "Mithril Belt",
+      "category": "Equipment",
+      "stage": 4,
+      "hotm": 2,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 2.",
+        "Forge duration per item: 3,600 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_BELT"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "ENCHANTED_MITHRIL",
+          "name": "Enchanted Mithril",
+          "count": 3
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Belt"
+    },
+    {
+      "id": "item_mithril_gauntlet",
+      "title": "Mithril Gauntlet",
+      "category": "Equipment",
+      "stage": 4,
+      "hotm": 2,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 2.",
+        "Forge duration per item: 3,600 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_GAUNTLET"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "ENCHANTED_MITHRIL",
+          "name": "Enchanted Mithril",
+          "count": 3
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Gauntlet"
+    },
+    {
+      "id": "item_mithril_lantern",
+      "title": "Mithril Lantern",
+      "category": "Equipment",
+      "stage": 4,
+      "hotm": 2,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 2.",
+        "Forge duration per item: 1,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_LANTERN"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "LANTERN",
+          "name": "Lantern",
+          "count": 1
+        },
+        {
+          "id": "REFINED_MITHRIL",
+          "name": "Refined Mithril",
+          "count": 1
+        },
+        {
+          "id": "ENCHANTED_EMERALD",
+          "name": "Enchanted Emerald",
+          "count": 16
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril_Lantern"
+    },
+    {
+      "id": "item_titanium_necklace",
+      "title": "Titanium Necklace",
+      "category": "Equipment",
+      "stage": 6,
+      "hotm": 3,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 16,200 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_NECKLACE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 1
+        },
+        {
+          "id": "MITHRIL_NECKLACE",
+          "name": "Mithril Necklace",
+          "count": 1
+        },
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 16
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Necklace"
+    },
+    {
+      "id": "item_titanium_cloak",
+      "title": "Titanium Cloak",
+      "category": "Equipment",
+      "stage": 6,
+      "hotm": 3,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 16,200 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_CLOAK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "MITHRIL_CLOAK",
+          "name": "Mithril Cloak",
+          "count": 1
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 1
+        },
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 16
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Cloak"
+    },
+    {
+      "id": "item_titanium_belt",
+      "title": "Titanium Belt",
+      "category": "Equipment",
+      "stage": 6,
+      "hotm": 3,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 16,200 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_BELT"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 1
+        },
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 16
+        },
+        {
+          "id": "MITHRIL_BELT",
+          "name": "Mithril Belt",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Belt"
+    },
+    {
+      "id": "item_titanium_gauntlet",
+      "title": "Titanium Gauntlet",
+      "category": "Equipment",
+      "stage": 6,
+      "hotm": 3,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 16,200 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_GAUNTLET"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 16
+        },
+        {
+          "id": "MITHRIL_GAUNTLET",
+          "name": "Mithril Gauntlet",
+          "count": 1
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Gauntlet"
+    },
+    {
+      "id": "item_titanium_lantern",
+      "title": "Titanium Lantern",
+      "category": "Equipment",
+      "stage": 6,
+      "hotm": 5,
+      "description": "A mining equipment option. Inspect the specialization and requirements.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 14,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_LANTERN"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "MITHRIL_LANTERN",
+          "name": "Mithril Lantern",
+          "count": 1
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 2
+        },
+        {
+          "id": "ENCHANTED_EMERALD_BLOCK",
+          "name": "Enchanted Emerald Block",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium_Lantern"
+    },
+    {
+      "id": "item_divan_pendant",
+      "title": "Pendant of Divan",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 10,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 10.",
+        "Forge duration per item: 604,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "DIVAN_PENDANT"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "PERFECT_PLATE",
+          "name": "Perfect Plate",
+          "count": 1
+        },
+        {
+          "id": "DIVAN_FRAGMENT",
+          "name": "Divan Fragment",
+          "count": 10
+        },
+        {
+          "id": "SHATTERED_PENDANT",
+          "name": "Shattered Pendant",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Pendant_of_Divan"
+    },
+    {
+      "id": "item_glacite_lantern",
+      "title": "Glacite Lantern",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 8,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 8.",
+        "Forge duration per item: 43,200 seconds before Quick Forge."
+      ],
+      "items": [
+        "GLACITE_LANTERN"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "TITANIUM_LANTERN",
+          "name": "Titanium Lantern",
+          "count": 1
+        },
+        {
+          "id": "GLACITE_AMALGAMATION",
+          "name": "Glacite Amalgamation",
+          "count": 4
+        },
+        {
+          "id": "ENCHANTED_EMERALD_BLOCK",
+          "name": "Enchanted Emerald Block",
+          "count": 2
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Glacite_Lantern"
+    },
+    {
+      "id": "item_mineral_talisman",
+      "title": "Mineral Talisman",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [],
+      "items": [
+        "MINERAL_TALISMAN"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 9
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mineral_Talisman"
+    },
+    {
+      "id": "item_glossy_mineral_talisman",
+      "title": "Glossy Mineral Talisman",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [],
+      "items": [
+        "GLOSSY_MINERAL_TALISMAN"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GLOSSY_GEMSTONE",
+          "name": "Glossy Gemstone",
+          "count": 16
+        },
+        {
+          "id": "MINERAL_TALISMAN",
+          "name": "Mineral Talisman",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Glossy_Mineral_Talisman"
+    },
+    {
+      "id": "item_power_artifact",
+      "title": "Artifact of Power",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [],
+      "items": [
+        "POWER_ARTIFACT"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 32
+        },
+        {
+          "id": "POWER_RING",
+          "name": "Power Ring",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Artifact_of_Power"
+    },
+    {
+      "id": "item_power_relic",
+      "title": "Relic of Power",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 10,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 10.",
+        "Forge duration per item: 28,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "POWER_RELIC"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "POWER_ARTIFACT",
+          "name": "Artifact of Power",
+          "count": 1
+        },
+        {
+          "id": "PERFECT_PLATE",
+          "name": "Perfect Plate",
+          "count": 1
+        },
+        {
+          "id": "GLACITE_AMALGAMATION",
+          "name": "Glacite Amalgamation",
+          "count": 32
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Relic_of_Power"
+    },
+    {
+      "id": "item_jungle_amulet",
+      "title": "Jungle Amulet",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [],
+      "items": [
+        "JUNGLE_AMULET"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Jungle_Amulet"
+    },
+    {
+      "id": "item_chisel",
+      "title": "Chisel",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [],
+      "items": [
+        "CHISEL"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Chisel"
+    },
+    {
+      "id": "item_reinforced_chisel",
+      "title": "Reinforced Chisel",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 8,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 8.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "REINFORCED_CHISEL"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_TUNGSTEN",
+          "name": "Refined Tungsten",
+          "count": 2
+        },
+        {
+          "id": "BEJEWELED_HANDLE",
+          "name": "Bejeweled Handle",
+          "count": 1
+        },
+        {
+          "id": "REFINED_UMBER",
+          "name": "Refined Umber",
+          "count": 2
+        },
+        {
+          "id": "CHISEL",
+          "name": "Chisel",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Reinforced_Chisel"
+    },
+    {
+      "id": "item_glacite_chisel",
+      "title": "Glacite-Plated Chisel",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 9,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 9.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "GLACITE_CHISEL"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REINFORCED_CHISEL",
+          "name": "Reinforced Chisel",
+          "count": 1
+        },
+        {
+          "id": "BEJEWELED_HANDLE",
+          "name": "Bejeweled Handle",
+          "count": 1
+        },
+        {
+          "id": "GLACITE_AMALGAMATION",
+          "name": "Glacite Amalgamation",
+          "count": 8
+        },
+        {
+          "id": "MITHRIL_PLATE",
+          "name": "Mithril Plate",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Glacite-Plated_Chisel"
+    },
+    {
+      "id": "item_perfect_chisel",
+      "title": "Perfect Chisel",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 10,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 10.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "PERFECT_CHISEL"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "BEJEWELED_HANDLE",
+          "name": "Bejeweled Handle",
+          "count": 1
+        },
+        {
+          "id": "GLACITE_CHISEL",
+          "name": "Glacite-Plated Chisel",
+          "count": 1
+        },
+        {
+          "id": "PERFECT_PLATE",
+          "name": "Perfect Plate",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Perfect_Chisel"
+    },
+    {
+      "id": "item_drill_engine",
+      "title": "Drill Motor",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "Forge duration per item: 108,000 seconds before Quick Forge."
+      ],
+      "items": [
+        "DRILL_ENGINE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "ENCHANTED_IRON_BLOCK",
+          "name": "Enchanted Iron Block",
+          "count": 1
+        },
+        {
+          "id": "ENCHANTED_REDSTONE_BLOCK",
+          "name": "Enchanted Redstone Block",
+          "count": 3
+        },
+        {
+          "id": "TREASURITE",
+          "name": "Treasurite",
+          "count": 10
+        },
+        {
+          "id": "GOLDEN_PLATE",
+          "name": "Golden Plate",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Drill_Motor"
+    },
+    {
+      "id": "item_mithril_drill_engine",
+      "title": "Mithril-Plated Drill Engine",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 3,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 86,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_DRILL_ENGINE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "MITHRIL_PLATE",
+          "name": "Mithril Plate",
+          "count": 1
+        },
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 2
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril-Plated_Drill_Engine"
+    },
+    {
+      "id": "item_titanium_drill_engine",
+      "title": "Titanium-Plated Drill Engine",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 5,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_DRILL_ENGINE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 2
+        },
+        {
+          "id": "MITHRIL_DRILL_ENGINE",
+          "name": "Mithril-Plated Drill Engine",
+          "count": 1
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 8
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium-Plated_Drill_Engine"
+    },
+    {
+      "id": "item_ruby_polished_drill_engine",
+      "title": "Ruby-Polished Drill Engine",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 7,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 7.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "RUBY_POLISHED_DRILL_ENGINE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "PERFECT_RUBY_GEM",
+          "name": "Perfect Ruby Gem",
+          "count": 1
+        },
+        {
+          "id": "PRECURSOR_APPARATUS",
+          "name": "Precursor Apparatus",
+          "count": 4
+        },
+        {
+          "id": "TITANIUM_DRILL_ENGINE",
+          "name": "Titanium-Plated Drill Engine",
+          "count": 1
+        },
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 5
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Ruby-Polished_Drill_Engine"
+    },
+    {
+      "id": "item_sapphire_polished_drill_engine",
+      "title": "Sapphire-Polished Drill Engine",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 8,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 8.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "SAPPHIRE_POLISHED_DRILL_ENGINE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "PERFECT_SAPPHIRE_GEM",
+          "name": "Perfect Sapphire Gem",
+          "count": 3
+        },
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 5
+        },
+        {
+          "id": "RUBY_POLISHED_DRILL_ENGINE",
+          "name": "Ruby-Polished Drill Engine",
+          "count": 1
+        },
+        {
+          "id": "PLASMA",
+          "name": "Plasma",
+          "count": 16
+        },
+        {
+          "id": "PRECURSOR_APPARATUS",
+          "name": "Precursor Apparatus",
+          "count": 8
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Sapphire-Polished_Drill_Engine"
+    },
+    {
+      "id": "item_amber_polished_drill_engine",
+      "title": "Amber-Polished Drill Engine",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 9,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 9.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "AMBER_POLISHED_DRILL_ENGINE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "DRILL_ENGINE",
+          "name": "Drill Motor",
+          "count": 5
+        },
+        {
+          "id": "PERFECT_AMBER_GEM",
+          "name": "Perfect Amber Gem",
+          "count": 5
+        },
+        {
+          "id": "PRECURSOR_APPARATUS",
+          "name": "Precursor Apparatus",
+          "count": 16
+        },
+        {
+          "id": "SAPPHIRE_POLISHED_DRILL_ENGINE",
+          "name": "Sapphire-Polished Drill Engine",
+          "count": 1
+        },
+        {
+          "id": "PLASMA",
+          "name": "Plasma",
+          "count": 32
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Amber-Polished_Drill_Engine"
+    },
+    {
+      "id": "item_fuel_tank",
+      "title": "Fuel Canister",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "Forge duration per item: 36,000 seconds before Quick Forge."
+      ],
+      "items": [
+        "FUEL_TANK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "ENCHANTED_COAL_BLOCK",
+          "name": "Enchanted Coal Block",
+          "count": 2
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Fuel_Canister"
+    },
+    {
+      "id": "item_mithril_fuel_tank",
+      "title": "Mithril-Infused Fuel Tank",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 3,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 86,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "MITHRIL_FUEL_TANK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_DIAMOND",
+          "name": "Refined Diamond",
+          "count": 5
+        },
+        {
+          "id": "REFINED_MITHRIL",
+          "name": "Refined Mithril",
+          "count": 10
+        },
+        {
+          "id": "FUEL_TANK",
+          "name": "Fuel Canister",
+          "count": 5
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Mithril-Infused_Fuel_Tank"
+    },
+    {
+      "id": "item_titanium_fuel_tank",
+      "title": "Titanium-Infused Fuel Tank",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 5,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "TITANIUM_FUEL_TANK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_DIAMOND",
+          "name": "Refined Diamond",
+          "count": 5
+        },
+        {
+          "id": "REFINED_TITANIUM",
+          "name": "Refined Titanium",
+          "count": 10
+        },
+        {
+          "id": "FUEL_TANK",
+          "name": "Fuel Canister",
+          "count": 5
+        },
+        {
+          "id": "MITHRIL_FUEL_TANK",
+          "name": "Mithril-Infused Fuel Tank",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Titanium-Infused_Fuel_Tank"
+    },
+    {
+      "id": "item_gemstone_fuel_tank",
+      "title": "Gemstone Fuel Tank",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 7,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 7.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "GEMSTONE_FUEL_TANK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 10
+        },
+        {
+          "id": "TITANIUM_FUEL_TANK",
+          "name": "Titanium-Infused Fuel Tank",
+          "count": 1
+        },
+        {
+          "id": "PRECURSOR_APPARATUS",
+          "name": "Precursor Apparatus",
+          "count": 4
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Fuel_Tank"
+    },
+    {
+      "id": "item_perfectly_cut_fuel_tank",
+      "title": "Perfectly-Cut Fuel Tank",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 8,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 8.",
+        "Forge duration per item: 30 seconds before Quick Forge."
+      ],
+      "items": [
+        "PERFECTLY_CUT_FUEL_TANK"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GEMSTONE_FUEL_TANK",
+          "name": "Gemstone Fuel Tank",
+          "count": 1
+        },
+        {
+          "id": "PRECURSOR_APPARATUS",
+          "name": "Precursor Apparatus",
+          "count": 16
+        },
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 25
+        },
+        {
+          "id": "PLASMA",
+          "name": "Plasma",
+          "count": 32
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Perfectly-Cut_Fuel_Tank"
+    },
+    {
+      "id": "item_goblin_omelette",
+      "title": "Goblin Omelette",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 3,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 3.",
+        "Forge duration per item: 64,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "GOBLIN_OMELETTE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GOBLIN_EGG",
+          "name": "Goblin Egg",
+          "count": 96
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Goblin_Omelette"
+    },
+    {
+      "id": "item_goblin_omelette_blue_cheese",
+      "title": "Blue Cheese Goblin Omelette",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 5,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 64,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "GOBLIN_OMELETTE_BLUE_CHEESE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GOBLIN_OMELETTE",
+          "name": "Goblin Omelette",
+          "count": 1
+        },
+        {
+          "id": "FLAWLESS_SAPPHIRE_GEM",
+          "name": "Flawless Sapphire Gem",
+          "count": 1
+        },
+        {
+          "id": "GOBLIN_EGG_BLUE",
+          "name": "Blue Goblin Egg",
+          "count": 96
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Blue_Cheese_Goblin_Omelette"
+    },
+    {
+      "id": "item_goblin_omelette_pesto",
+      "title": "Pesto Goblin Omelette",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 5,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 64,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "GOBLIN_OMELETTE_PESTO"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "FLAWLESS_JADE_GEM",
+          "name": "Flawless Jade Gem",
+          "count": 1
+        },
+        {
+          "id": "GOBLIN_EGG_GREEN",
+          "name": "Green Goblin Egg",
+          "count": 96
+        },
+        {
+          "id": "GOBLIN_OMELETTE",
+          "name": "Goblin Omelette",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Pesto_Goblin_Omelette"
+    },
+    {
+      "id": "item_goblin_omelette_spicy",
+      "title": "Spicy Goblin Omelette",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 5,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 64,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "GOBLIN_OMELETTE_SPICY"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "FLAWLESS_RUBY_GEM",
+          "name": "Flawless Ruby Gem",
+          "count": 1
+        },
+        {
+          "id": "GOBLIN_OMELETTE",
+          "name": "Goblin Omelette",
+          "count": 1
+        },
+        {
+          "id": "GOBLIN_EGG_RED",
+          "name": "Red Goblin Egg",
+          "count": 96
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Spicy_Goblin_Omelette"
+    },
+    {
+      "id": "item_goblin_omelette_sunny_side",
+      "title": "Sunny Side Goblin Omelette",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 5,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "\u2763 Requires Heart of the Mountain Tier 5.",
+        "Forge duration per item: 64,800 seconds before Quick Forge."
+      ],
+      "items": [
+        "GOBLIN_OMELETTE_SUNNY_SIDE"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "GOBLIN_EGG_YELLOW",
+          "name": "Yellow Goblin Egg",
+          "count": 96
+        },
+        {
+          "id": "FLAWLESS_TOPAZ_GEM",
+          "name": "Flawless Topaz Gem",
+          "count": 1
+        },
+        {
+          "id": "GOBLIN_OMELETTE",
+          "name": "Goblin Omelette",
+          "count": 1
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Sunny_Side_Goblin_Omelette"
+    },
+    {
+      "id": "item_divan_powder_coating",
+      "title": "Divan's Powder Coating",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "Forge duration per item: 129,600 seconds before Quick Forge."
+      ],
+      "items": [
+        "DIVAN_POWDER_COATING"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "REFINED_MINERAL",
+          "name": "Refined Mineral",
+          "count": 32
+        },
+        {
+          "id": "GLOSSY_GEMSTONE",
+          "name": "Glossy Gemstone",
+          "count": 32
+        },
+        {
+          "id": "ENCHANTED_GOLD_BLOCK",
+          "name": "Enchanted Gold Block",
+          "count": 16
+        },
+        {
+          "id": "DIVAN_FRAGMENT",
+          "name": "Divan Fragment",
+          "count": 5
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Divan%27s_Powder_Coating"
+    },
+    {
+      "id": "item_gemstone_chamber",
+      "title": "Gemstone Chamber",
+      "category": "Upgrades & Accessories",
+      "stage": 6,
+      "hotm": 0,
+      "description": "Optional supporting upgrade. Drill parts must be installed at a Drill Mechanic after obtaining them.",
+      "steps": [
+        "Forge duration per item: 14,400 seconds before Quick Forge."
+      ],
+      "items": [
+        "GEMSTONE_CHAMBER"
+      ],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [
+        {
+          "id": "WORM_MEMBRANE",
+          "name": "Worm Membrane",
+          "count": 100
+        },
+        {
+          "id": "GEMSTONE_MIXTURE",
+          "name": "Gemstone Mixture",
+          "count": 1
+        },
+        {
+          "id": "SKYBLOCK_COIN",
+          "name": "Skyblock Coin",
+          "count": 25000
+        }
+      ],
+      "source": "https://hypixelskyblock.minecraft.wiki/w/Gemstone_Chamber"
+    },
+    {
+      "id": "pet_silverfish",
+      "title": "Silverfish",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_mithril_golem",
+      "title": "Mithril Golem",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_armadillo",
+      "title": "Armadillo",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_bal",
+      "title": "Bal",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_scatha",
+      "title": "Scatha",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_glacite_golem",
+      "title": "Glacite Golem",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_mole",
+      "title": "Mole",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "pet_snail",
+      "title": "Snail",
+      "category": "Pets",
+      "stage": 4,
+      "hotm": 0,
+      "description": "A mining pet option; the best choice depends on the activity and your setup.",
+      "steps": [
+        "Obtain and summon a suitable rarity.",
+        "Pet ownership is manual here; the Pet Stats HUD still reads the active pet."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_mining_speed",
+      "title": "Mining Speed (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_mining_speed",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_mining_speed_boost",
+      "title": "Mining Speed Boost",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_mining_speed_boost",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_precision_mining",
+      "title": "Precision Mining",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_precision_mining",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_mining_fortune",
+      "title": "Mining Fortune (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_mining_fortune",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_titanium_insanium",
+      "title": "Titanium Insanium (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_titanium_insanium",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_pickobulus",
+      "title": "Pickobulus",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_pickobulus",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_luck_of_the_cave",
+      "title": "Luck of the Cave (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 45. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_luck_of_the_cave",
+      "target": 45,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_efficient_miner",
+      "title": "Efficient Miner (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 100. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_efficient_miner",
+      "target": 100,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_quick_forge",
+      "title": "Quick Forge (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_quick_forge",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_sky_mall",
+      "title": "Sky Mall",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Mithril. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_sky_mall",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_old_school",
+      "title": "Old-School (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_old_school",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_professional",
+      "title": "Professional (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 140. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_professional",
+      "target": 140,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_mole",
+      "title": "Mole (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 200. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_mole",
+      "target": 200,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_gem_lover",
+      "title": "Gem Lover (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_gem_lover",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_seasoned_mineman",
+      "title": "Seasoned Mineman (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 100. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_seasoned_mineman",
+      "target": 100,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_front_loaded",
+      "title": "Front Loaded",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_front_loaded",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_daily_grind",
+      "title": "Daily Grind",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_daily_grind",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_core_of_the_mountain",
+      "title": "Core of the Mountain (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 10. Powder: (If (Lt Level 4) Mithril (If (Lt Level 8) Gemstone Glacite)). Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_core_of_the_mountain",
+      "target": 10,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_daily_powder",
+      "title": "Daily Powder",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_daily_powder",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_anomalous_desire",
+      "title": "Tunnel Vision",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_anomalous_desire",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_blockhead",
+      "title": "Blockhead (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_blockhead",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_subterranean_fisher",
+      "title": "Subterranean Fisher (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 40. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_subterranean_fisher",
+      "target": 40,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_keep_it_cool",
+      "title": "Keep It Cool (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_keep_it_cool",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_lonesome_miner",
+      "title": "Lonesome Miner (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 45. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_lonesome_miner",
+      "target": 45,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_great_explorer",
+      "title": "Great Explorer (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_great_explorer",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_maniac_miner",
+      "title": "Maniac Miner",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_maniac_miner",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_powder_buff",
+      "title": "Powder Buff (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_powder_buff",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_speedy_mineman",
+      "title": "Speedy Mineman (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_speedy_mineman",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_fortunate_mineman",
+      "title": "Fortunate Mineman (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Gemstone. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_fortunate_mineman",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_warm_heart",
+      "title": "Warm Heart (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_warm_heart",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_miners_blessing",
+      "title": "Miner's Blessing",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_miners_blessing",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_no_stone_unturned",
+      "title": "No Stone Unturned (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_no_stone_unturned",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_strong_arm",
+      "title": "Strong Arm (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 100. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_strong_arm",
+      "target": 100,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_steady_hand",
+      "title": "Steady Hand (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 100. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_steady_hand",
+      "target": 100,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_mineshaft_mayhem",
+      "title": "Mineshaft Mayhem",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_mineshaft_mayhem",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_surveyor",
+      "title": "Surveyor (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_surveyor",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_metal_head",
+      "title": "Metal Head (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 20. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_metal_head",
+      "target": 20,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_rags_to_riches",
+      "title": "Rags to Riches (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_rags_to_riches",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_eager_adventurer",
+      "title": "Eager Adventurer (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 100. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_eager_adventurer",
+      "target": 100,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_gemstone_infusion",
+      "title": "Gemstone Infusion",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_gemstone_infusion",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_crystalline",
+      "title": "Crystalline (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_crystalline",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_gifts_from_the_departed",
+      "title": "Gifts from the Departed (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 100. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_gifts_from_the_departed",
+      "target": 100,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_mining_master",
+      "title": "Mining Master (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 10. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_mining_master",
+      "target": 10,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_dead_mans_chest",
+      "title": "Dead Man's Chest (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_dead_mans_chest",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_vanguard_seeker",
+      "title": "Vanguard Seeker (max)",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 50. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_vanguard_seeker",
+      "target": 50,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "perk_sheer_force",
+      "title": "Sheer Force",
+      "category": "HotM Perks",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Perk target: level 1. Powder: Glacite. Choose perks for your current mining route; you do not need every perk at once.",
+      "steps": [
+        "Open the Heart of the Mountain menu to read unlocked perk levels.",
+        "Reassign powder when changing between ore, gemstone and powder routes."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "perk_sheer_force",
+      "target": 1,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_mithril_100000",
+      "title": "100,000 Mithril Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_mithril",
+      "target": 100000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_mithril_1000000",
+      "title": "1,000,000 Mithril Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_mithril",
+      "target": 1000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_mithril_4000000",
+      "title": "4,000,000 Mithril Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_mithril",
+      "target": 4000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_mithril_8000000",
+      "title": "8,000,000 Mithril Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_mithril",
+      "target": 8000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_gemstone_100000",
+      "title": "100,000 Gemstone Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_gemstone",
+      "target": 100000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_gemstone_1000000",
+      "title": "1,000,000 Gemstone Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_gemstone",
+      "target": 1000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_gemstone_4000000",
+      "title": "4,000,000 Gemstone Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_gemstone",
+      "target": 4000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_gemstone_8000000",
+      "title": "8,000,000 Gemstone Powder",
+      "category": "Powder",
+      "stage": 5,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_gemstone",
+      "target": 8000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_glacite_100000",
+      "title": "100,000 Glacite Powder",
+      "category": "Powder",
+      "stage": 8,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_glacite",
+      "target": 100000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_glacite_1000000",
+      "title": "1,000,000 Glacite Powder",
+      "category": "Powder",
+      "stage": 8,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_glacite",
+      "target": 1000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_glacite_4000000",
+      "title": "4,000,000 Glacite Powder",
+      "category": "Powder",
+      "stage": 8,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_glacite",
+      "target": 4000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "powder_glacite_8000000",
+      "title": "8,000,000 Glacite Powder",
+      "category": "Powder",
+      "stage": 8,
+      "hotm": 0,
+      "description": "An optional unspent-powder checkpoint, not a mandatory optimal target. Spent powder is not included in the visible balance.",
+      "steps": [
+        "Enable the Powder TAB widget or open Heart of the Mountain.",
+        "Balance powder investment around the perks for your current route."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "powder_glacite",
+      "target": 8000000,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_commission",
+      "title": "Complete your first commissions",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Work through King/Emissary commissions; daily bonus commissions accelerate HotM progression.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_forge",
+      "title": "Start a Forge project",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Open the Forge, inspect the recipe and time, then begin a project that supports your chosen goal.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_nucleus",
+      "title": "Complete a Crystal Nucleus run",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Collect the five crystals using the current biome tasks and place them in the nucleus.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_automaton",
+      "title": "Prepare Automaton parts",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Collect the required Robotron/Professor parts for your Crystal Hollows objective; verify the current task in game.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_jungle",
+      "title": "Complete the Jungle Temple",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Prepare the entrance requirement and complete the parkour for the Amethyst Crystal.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_goblin",
+      "title": "Complete the Goblin crystal task",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Follow King Yolkar and Queen Mismyla's current dialogue requirements.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_bal",
+      "title": "Complete the Khazad-dum crystal task",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Fight Bal and collect the Topaz Crystal when available.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_mines_of_divan",
+      "title": "Complete the Mines of Divan task",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Use the Metal Detector and return all required tools for the Jade Crystal.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_fossil",
+      "title": "Excavate a fossil",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Prepare a chisel and Suspicious Scrap, then excavate a fossil at the Fossil Excavator.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_mineshaft",
+      "title": "Explore a Glacite Mineshaft",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Prepare Cold resistance and return safely with useful materials.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_gemslots",
+      "title": "Unlock useful gemstone slots",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Inspect your tool and armor slots. Prioritize slots matching your mining activity and budget.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_reforge",
+      "title": "Apply mining reforges",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Compare tool, armor and equipment reforges against your route; verify current Mining-level requirements.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_enchant",
+      "title": "Apply mining enchantments",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Compare Efficiency, Fortune, Pristine, Compact and ultimate options against the actual tool compatibility and collection requirements before buying.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_collections",
+      "title": "Expand mining collections",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Review every Mining Collection in the Collections menu and unlock the recipes relevant to your route.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_museum",
+      "title": "Donate mining milestones",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Inspect Museum donations after obtaining spare gear; avoid donating equipment you still need to trade.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    },
+    {
+      "id": "task_accessories",
+      "title": "Tune mining accessories",
+      "category": "Activities",
+      "stage": 5,
+      "hotm": 0,
+      "description": "Review accessory Magical Power, mining-related accessories and enrichment options for your route.",
+      "steps": [
+        "Mark this checklist task complete after verifying it in game."
+      ],
+      "items": [],
+      "prerequisites": [],
+      "metric": "",
+      "target": 0,
+      "ingredients": [],
+      "source": "https://wiki.hypixel.net/Mining"
+    }
+  ]
+}

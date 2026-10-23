@@ -1,0 +1,10 @@
+Mining facts and crafting recipe data derived from NotEnoughUpdates-REPO.
+Source: https://github.com/NotEnoughUpdates/NotEnoughUpdates-REPO
+Revision: dec128fa018ba664f16a58104fa0cf531342fbbf
+License: MIT, Copyright (c) 2020 Moulberry.
+The complete license is included in LICENSE-NEU-REPO.txt beside this notice.
+
+Tooltip labels and feed formats were researched in NotEnoughUpdates (LGPL-3.0),
+revision 9b1fcfebc646e9fb69f99006327faa3e734e5f51, and Skyblocker.
+The 26.2 tooltip adapter and pricing models here are original implementations.
+No Forge/NEU executable implementation is included in this mod.

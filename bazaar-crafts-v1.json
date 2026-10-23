@@ -1,0 +1,1620 @@
+{
+  "schema": 1,
+  "revision": "dec128fa018ba664f16a58104fa0cf531342fbbf",
+  "recipes": [
+    {
+      "output": "ENCHANTED_ACACIA_LOG",
+      "name": "Enchanted Acacia Log",
+      "unlock": "Requires: Acacia Log VI",
+      "inputs": [
+        {
+          "id": "LOG_2",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_ANCIENT_CLAW",
+      "name": "Enchanted Ancient Claw",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "ANCIENT_CLAW",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BAKED_POTATO",
+      "name": "Enchanted Baked Potato",
+      "unlock": "Requires: Potato VII",
+      "inputs": [
+        {
+          "id": "POTATO_ITEM",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BIRCH_LOG",
+      "name": "Enchanted Birch Log",
+      "unlock": "Requires: Birch Log V",
+      "inputs": [
+        {
+          "id": "LOG:2",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BLAZE_POWDER",
+      "name": "Enchanted Blaze Powder",
+      "unlock": "Requires: Blaze Rod IV",
+      "inputs": [
+        {
+          "id": "BLAZE_ROD",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BLAZE_ROD",
+      "name": "Enchanted Blaze Rod",
+      "unlock": "Requires: Blaze Rod VII",
+      "inputs": [
+        {
+          "id": "BLAZE_ROD",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BONE",
+      "name": "Enchanted Bone",
+      "unlock": "Requires: Bone V",
+      "inputs": [
+        {
+          "id": "BONE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BONE_BLOCK",
+      "name": "Enchanted Bone Block",
+      "unlock": "Requires: Bone X",
+      "inputs": [
+        {
+          "id": "BONE",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BREAD",
+      "name": "Enchanted Bread",
+      "unlock": "Requires: Wheat V",
+      "inputs": [
+        {
+          "id": "WHEAT",
+          "count": 60
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_BROWN_MUSHROOM",
+      "name": "Enchanted Brown Mushroom",
+      "unlock": "Requires: Mushroom VI",
+      "inputs": [
+        {
+          "id": "BROWN_MUSHROOM",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CACTUS",
+      "name": "Enchanted Cactus",
+      "unlock": "Requires: Cactus VIII",
+      "inputs": [
+        {
+          "id": "CACTUS",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CACTUS_GREEN",
+      "name": "Enchanted Cactus Green",
+      "unlock": "Requires: Cactus IV",
+      "inputs": [
+        {
+          "id": "CACTUS",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CAKE",
+      "name": "Enchanted Cake",
+      "unlock": "Requires: Raw Chicken VII",
+      "inputs": [
+        {
+          "id": "MILK_BUCKET",
+          "count": 3
+        },
+        {
+          "id": "SUGAR_CANE",
+          "count": 320
+        },
+        {
+          "id": "EGG",
+          "count": 144
+        },
+        {
+          "id": "WHEAT",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CARROT",
+      "name": "Enchanted Carrot",
+      "unlock": "Requires: Carrot IV",
+      "inputs": [
+        {
+          "id": "CARROT_ITEM",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CARROT_STICK",
+      "name": "Enchanted Carrot on a Stick",
+      "unlock": "Requires: Carrot V",
+      "inputs": [
+        {
+          "id": "STICK",
+          "count": 3
+        },
+        {
+          "id": "CARROT_ITEM",
+          "count": 10240
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CHARCOAL",
+      "name": "Enchanted Charcoal",
+      "unlock": "Requires: Coal V",
+      "inputs": [
+        {
+          "id": "COAL",
+          "count": 128
+        },
+        {
+          "id": "LOG",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CLAY_BALL",
+      "name": "Enchanted Clay Ball",
+      "unlock": "Requires: Clay Ball III",
+      "inputs": [
+        {
+          "id": "CLAY_BALL",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CLAY_BLOCK",
+      "name": "Enchanted Clay Block",
+      "unlock": "Requires: Clay Ball VIII",
+      "inputs": [
+        {
+          "id": "CLAY_BALL",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_CLOWNFISH",
+      "name": "Enchanted Tropical Fish",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "RAW_FISH:2",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COAL",
+      "name": "Enchanted Coal",
+      "unlock": "Requires: Coal III",
+      "inputs": [
+        {
+          "id": "COAL",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COAL_BLOCK",
+      "name": "Enchanted Coal Block",
+      "unlock": "Requires: Coal VII",
+      "inputs": [
+        {
+          "id": "COAL",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COBBLESTONE",
+      "name": "Enchanted Cobblestone",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "COBBLESTONE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COCOA",
+      "name": "Enchanted Cocoa Beans",
+      "unlock": "Requires: Cocoa Beans IV",
+      "inputs": [
+        {
+          "id": "INK_SACK:3",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COMPOST",
+      "name": "Compost Bundle",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "COMPOST",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COOKED_FISH",
+      "name": "Enchanted Cooked Cod",
+      "unlock": "Requires: Raw Cod VIII",
+      "inputs": [
+        {
+          "id": "RAW_FISH",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COOKED_MUTTON",
+      "name": "Enchanted Cooked Mutton",
+      "unlock": "Requires: Raw Mutton VIII",
+      "inputs": [
+        {
+          "id": "MUTTON",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COOKED_RABBIT",
+      "name": "Enchanted Cooked Rabbit",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "RABBIT",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COOKED_SALMON",
+      "name": "Enchanted Cooked Salmon",
+      "unlock": "Requires: Raw Salmon VIII",
+      "inputs": [
+        {
+          "id": "RAW_FISH:1",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_COOKIE",
+      "name": "Enchanted Cookie",
+      "unlock": "Requires: Cocoa Beans VI",
+      "inputs": [
+        {
+          "id": "INK_SACK:3",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_DANDELION",
+      "name": "Enchanted Dandelion",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "YELLOW_FLOWER",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_DARK_OAK_LOG",
+      "name": "Enchanted Dark Oak Log",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "LOG_2:1",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_DIAMOND",
+      "name": "Enchanted Diamond",
+      "unlock": "Requires: Diamond IV",
+      "inputs": [
+        {
+          "id": "DIAMOND",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_DIAMOND_BLOCK",
+      "name": "Enchanted Diamond Block",
+      "unlock": "Requires: Diamond VIII",
+      "inputs": [
+        {
+          "id": "DIAMOND",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_EGG",
+      "name": "Enchanted Egg",
+      "unlock": "Requires: Raw Chicken V",
+      "inputs": [
+        {
+          "id": "EGG",
+          "count": 144
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_EMERALD",
+      "name": "Enchanted Emerald",
+      "unlock": "Requires: Emerald IV",
+      "inputs": [
+        {
+          "id": "EMERALD",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_EMERALD_BLOCK",
+      "name": "Enchanted Emerald Block",
+      "unlock": "Requires: Emerald VII",
+      "inputs": [
+        {
+          "id": "EMERALD",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_ENDER_PEARL",
+      "name": "Enchanted Ender Pearl",
+      "unlock": "Requires: Ender Pearl II",
+      "inputs": [
+        {
+          "id": "ENDER_PEARL",
+          "count": 20
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_ENDSTONE",
+      "name": "Enchanted End Stone",
+      "unlock": "Requires: End Stone IV",
+      "inputs": [
+        {
+          "id": "ENDER_STONE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_EYE_OF_ENDER",
+      "name": "Enchanted Eye of Ender",
+      "unlock": "Requires: Ender Pearl VI",
+      "inputs": [
+        {
+          "id": "BLAZE_POWDER",
+          "count": 64
+        },
+        {
+          "id": "ENDER_PEARL",
+          "count": 320
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_FEATHER",
+      "name": "Enchanted Feather",
+      "unlock": "Requires: Feather V",
+      "inputs": [
+        {
+          "id": "FEATHER",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_FERMENTED_SPIDER_EYE",
+      "name": "Enchanted Fermented Spider Eye",
+      "unlock": "Requires: Spider Eye VII",
+      "inputs": [
+        {
+          "id": "BROWN_MUSHROOM",
+          "count": 64
+        },
+        {
+          "id": "SUGAR",
+          "count": 64
+        },
+        {
+          "id": "SPIDER_EYE",
+          "count": 10240
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_FIG_LOG",
+      "name": "Enchanted Fig Log",
+      "unlock": "Requires: Fig Log II",
+      "inputs": [
+        {
+          "id": "FIG_LOG",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_FIREWORK_ROCKET",
+      "name": "Enchanted Firework Rocket",
+      "unlock": "Requires: Gunpowder VI",
+      "inputs": [
+        {
+          "id": "SULPHUR",
+          "count": 10240
+        },
+        {
+          "id": "PAPER",
+          "count": 16
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_FLINT",
+      "name": "Enchanted Flint",
+      "unlock": "Requires: Gravel V",
+      "inputs": [
+        {
+          "id": "FLINT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GHAST_TEAR",
+      "name": "Enchanted Ghast Tear",
+      "unlock": "Requires: Ghast Tear IV",
+      "inputs": [
+        {
+          "id": "GHAST_TEAR",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GLACITE",
+      "name": "Enchanted Glacite",
+      "unlock": "Requires: Glacite II",
+      "inputs": [
+        {
+          "id": "GLACITE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GLISTERING_MELON",
+      "name": "Enchanted Glistering Melon Slice",
+      "unlock": "Requires: Melon Slice V",
+      "inputs": [
+        {
+          "id": "SPECKLED_MELON",
+          "count": 256
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GLOWSTONE",
+      "name": "Enchanted Glowstone",
+      "unlock": "Requires: Glowstone Dust VI",
+      "inputs": [
+        {
+          "id": "GLOWSTONE_DUST",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GLOWSTONE_DUST",
+      "name": "Enchanted Glowstone Dust",
+      "unlock": "Requires: Glowstone Dust IV",
+      "inputs": [
+        {
+          "id": "GLOWSTONE_DUST",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GOLD",
+      "name": "Enchanted Gold Ingot",
+      "unlock": "Requires: Gold Ingot IV",
+      "inputs": [
+        {
+          "id": "GOLD_INGOT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GOLDEN_CARROT",
+      "name": "Enchanted Golden Carrot",
+      "unlock": "Requires: Carrot VII",
+      "inputs": [
+        {
+          "id": "CARROT_ITEM",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GOLD_BLOCK",
+      "name": "Enchanted Gold Block",
+      "unlock": "Requires: Gold Ingot VII",
+      "inputs": [
+        {
+          "id": "GOLD_INGOT",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GRILLED_PORK",
+      "name": "Enchanted Cooked Porkchop",
+      "unlock": "Requires: Raw Porkchop VII",
+      "inputs": [
+        {
+          "id": "PORK",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_GUNPOWDER",
+      "name": "Enchanted Gunpowder",
+      "unlock": "Requires: Gunpowder IV",
+      "inputs": [
+        {
+          "id": "SULPHUR",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HARD_STONE",
+      "name": "Enchanted Hard Stone",
+      "unlock": "Requires: Hard Stone III",
+      "inputs": [
+        {
+          "id": "HARD_STONE",
+          "count": 576
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HAY_BALE",
+      "name": "Enchanted Hay Bale",
+      "unlock": "Requires: Wheat XI",
+      "inputs": [
+        {
+          "id": "WHEAT",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HELIX_LOG",
+      "name": "Enchanted Helix Log",
+      "unlock": "Requires: Helix Log II",
+      "inputs": [
+        {
+          "id": "HELIX_LOG",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HONEYCOMB",
+      "name": "Enchanted Honeycomb",
+      "unlock": "Requires: Honeycomb II",
+      "inputs": [
+        {
+          "id": "HONEYCOMB",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HONEYCOMB_BLOCK",
+      "name": "Enchanted Honeycomb Block",
+      "unlock": "Requires: Honeycomb VI",
+      "inputs": [
+        {
+          "id": "HONEYCOMB",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HOPPER",
+      "name": "Enchanted Hopper",
+      "unlock": "Requires: Iron Ingot IX",
+      "inputs": [
+        {
+          "id": "IRON_INGOT",
+          "count": 128000
+        },
+        {
+          "id": "BUDGET_HOPPER",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HUGE_MUSHROOM_1",
+      "name": "Enchanted Brown Mushroom Block",
+      "unlock": "Requires: Mushroom VIII",
+      "inputs": [
+        {
+          "id": "BROWN_MUSHROOM",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_HUGE_MUSHROOM_2",
+      "name": "Enchanted Red Mushroom Block",
+      "unlock": "Requires: Mushroom VIII",
+      "inputs": [
+        {
+          "id": "RED_MUSHROOM",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_ICE",
+      "name": "Enchanted Ice",
+      "unlock": "Requires: Ice IV",
+      "inputs": [
+        {
+          "id": "ICE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_INK_SACK",
+      "name": "Enchanted Ink Sac",
+      "unlock": "Requires: Ink Sac III",
+      "inputs": [
+        {
+          "id": "INK_SACK",
+          "count": 80
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_IRON",
+      "name": "Enchanted Iron Ingot",
+      "unlock": "Requires: Iron Ingot IV",
+      "inputs": [
+        {
+          "id": "IRON_INGOT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_IRON_BLOCK",
+      "name": "Enchanted Iron Block",
+      "unlock": "Requires: Iron Ingot VII",
+      "inputs": [
+        {
+          "id": "IRON_INGOT",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_JACK_O_LANTERN",
+      "name": "Lantern Helmet",
+      "unlock": "Requires: Pumpkin VII",
+      "inputs": [
+        {
+          "id": "PUMPKIN",
+          "count": 20480
+        },
+        {
+          "id": "TORCH",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_JUNGLE_LOG",
+      "name": "Enchanted Jungle Log",
+      "unlock": "Requires: Jungle Log VI",
+      "inputs": [
+        {
+          "id": "LOG:3",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_LAPIS_LAZULI",
+      "name": "Enchanted Lapis Lazuli",
+      "unlock": "Requires: Lapis Lazuli IV",
+      "inputs": [
+        {
+          "id": "INK_SACK:4",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_LAPIS_LAZULI_BLOCK",
+      "name": "Enchanted Lapis Lazuli Block",
+      "unlock": "Requires: Lapis Lazuli VII",
+      "inputs": [
+        {
+          "id": "INK_SACK:4",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_LAVA_BUCKET",
+      "name": "Enchanted Lava Bucket",
+      "unlock": "Requires: Coal VIII",
+      "inputs": [
+        {
+          "id": "IRON_INGOT",
+          "count": 480
+        },
+        {
+          "id": "COAL",
+          "count": 51200
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_LEATHER",
+      "name": "Enchanted Leather",
+      "unlock": "Requires: Leather VI",
+      "inputs": [
+        {
+          "id": "LEATHER",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_LUSH_BERBERIS",
+      "name": "Enchanted Lush Berberis",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "LUSH_BERBERIS",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MAGMA_CREAM",
+      "name": "Enchanted Magma Cream",
+      "unlock": "Requires: Magma Cream V",
+      "inputs": [
+        {
+          "id": "MAGMA_CREAM",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MANGROVE_LOG",
+      "name": "Enchanted Mangrove Log",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "MANGROVE_LOG",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MELON",
+      "name": "Enchanted Melon Slice",
+      "unlock": "Requires: Melon Slice IV",
+      "inputs": [
+        {
+          "id": "MELON",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MELON_BLOCK",
+      "name": "Enchanted Melon",
+      "unlock": "Requires: Melon Slice VI",
+      "inputs": [
+        {
+          "id": "MELON",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MITHRIL",
+      "name": "Enchanted Mithril",
+      "unlock": "Requires: Mithril III",
+      "inputs": [
+        {
+          "id": "MITHRIL_ORE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MOONFLOWER",
+      "name": "Enchanted Moonflower",
+      "unlock": "Requires: Moonflower I",
+      "inputs": [
+        {
+          "id": "MOONFLOWER",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MUTTON",
+      "name": "Enchanted Raw Mutton",
+      "unlock": "Requires: Raw Mutton V",
+      "inputs": [
+        {
+          "id": "MUTTON",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MYCELIUM",
+      "name": "Enchanted Mycelium",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "MYCEL",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_MYCELIUM_CUBE",
+      "name": "Enchanted Mycelium Cube",
+      "unlock": "Requires: Mycelium VII",
+      "inputs": [
+        {
+          "id": "MYCEL",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_NETHERRACK",
+      "name": "Enchanted Netherrack",
+      "unlock": "Requires: Netherrack IV",
+      "inputs": [
+        {
+          "id": "NETHERRACK",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_NETHER_STALK",
+      "name": "Enchanted Nether Wart",
+      "unlock": "Requires: Nether Wart IV",
+      "inputs": [
+        {
+          "id": "NETHER_STALK",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_OAK_LOG",
+      "name": "Enchanted Oak Log",
+      "unlock": "Requires: Oak Log VI",
+      "inputs": [
+        {
+          "id": "LOG",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_OBSIDIAN",
+      "name": "Enchanted Obsidian",
+      "unlock": "Requires: Obsidian IV",
+      "inputs": [
+        {
+          "id": "OBSIDIAN",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PACKED_ICE",
+      "name": "Enchanted Packed Ice",
+      "unlock": "Requires: Ice VII",
+      "inputs": [
+        {
+          "id": "ICE",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PAPER",
+      "name": "Enchanted Paper",
+      "unlock": "Requires: Sugar Cane V",
+      "inputs": [
+        {
+          "id": "SUGAR_CANE",
+          "count": 192
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_POISONOUS_POTATO",
+      "name": "Enchanted Poisonous Potato",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "POISONOUS_POTATO",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_POPPY",
+      "name": "Enchanted Poppy",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "RED_ROSE",
+          "count": 576
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PORK",
+      "name": "Enchanted Raw Porkchop",
+      "unlock": "Requires: Raw Porkchop IV",
+      "inputs": [
+        {
+          "id": "PORK",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_POTATO",
+      "name": "Enchanted Potato",
+      "unlock": "Requires: Potato IV",
+      "inputs": [
+        {
+          "id": "POTATO_ITEM",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PRISMARINE_CRYSTALS",
+      "name": "Enchanted Prismarine Crystals",
+      "unlock": "Requires: Prismarine Crystals III",
+      "inputs": [
+        {
+          "id": "PRISMARINE_CRYSTALS",
+          "count": 80
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PRISMARINE_SHARD",
+      "name": "Enchanted Prismarine Shard",
+      "unlock": "Requires: Prismarine Shard III",
+      "inputs": [
+        {
+          "id": "PRISMARINE_SHARD",
+          "count": 80
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PUFFERFISH",
+      "name": "Enchanted Pufferfish",
+      "unlock": "Requires: Pufferfish IV",
+      "inputs": [
+        {
+          "id": "RAW_FISH:3",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_PUMPKIN",
+      "name": "Enchanted Pumpkin",
+      "unlock": "Requires: Pumpkin III",
+      "inputs": [
+        {
+          "id": "PUMPKIN",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_QUARTZ",
+      "name": "Enchanted Nether Quartz",
+      "unlock": "Requires: Nether Quartz IV",
+      "inputs": [
+        {
+          "id": "QUARTZ",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_QUARTZ_BLOCK",
+      "name": "Enchanted Quartz Block",
+      "unlock": "Requires: Nether Quartz VI",
+      "inputs": [
+        {
+          "id": "QUARTZ",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RABBIT",
+      "name": "Enchanted Raw Rabbit",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "RABBIT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RABBIT_FOOT",
+      "name": "Enchanted Rabbit Foot",
+      "unlock": "Requires: Raw Rabbit IV",
+      "inputs": [
+        {
+          "id": "RABBIT_FOOT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RABBIT_HIDE",
+      "name": "Enchanted Rabbit Hide",
+      "unlock": "Requires: Raw Rabbit VI",
+      "inputs": [
+        {
+          "id": "RABBIT_HIDE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RAW_BEEF",
+      "name": "Enchanted Raw Beef",
+      "unlock": "Requires: Leather IV",
+      "inputs": [
+        {
+          "id": "RAW_BEEF",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RAW_CHICKEN",
+      "name": "Enchanted Raw Chicken",
+      "unlock": "Requires: Raw Chicken IV",
+      "inputs": [
+        {
+          "id": "RAW_CHICKEN",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RAW_FISH",
+      "name": "Enchanted Raw Cod",
+      "unlock": "Requires: Raw Cod VI",
+      "inputs": [
+        {
+          "id": "RAW_FISH",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RAW_SALMON",
+      "name": "Enchanted Raw Salmon",
+      "unlock": "Requires: Raw Salmon IV",
+      "inputs": [
+        {
+          "id": "RAW_FISH:1",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_REDSTONE",
+      "name": "Enchanted Redstone Dust",
+      "unlock": "Requires: Redstone Dust II",
+      "inputs": [
+        {
+          "id": "REDSTONE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_REDSTONE_BLOCK",
+      "name": "Enchanted Redstone Block",
+      "unlock": "Requires: Redstone Dust VII",
+      "inputs": [
+        {
+          "id": "REDSTONE",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_REDSTONE_LAMP",
+      "name": "Enchanted Redstone Lamp",
+      "unlock": "Requires: Glowstone Dust VII",
+      "inputs": [
+        {
+          "id": "REDSTONE",
+          "count": 20480
+        },
+        {
+          "id": "GLOWSTONE_DUST",
+          "count": 5120
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RED_MUSHROOM",
+      "name": "Enchanted Red Mushroom",
+      "unlock": "Requires: Mushroom VI",
+      "inputs": [
+        {
+          "id": "RED_MUSHROOM",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RED_SAND",
+      "name": "Enchanted Red Sand",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "SAND:1",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RED_SAND_CUBE",
+      "name": "Enchanted Red Sand Cube",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "SAND:1",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_ROTTEN_FLESH",
+      "name": "Enchanted Rotten Flesh",
+      "unlock": "Requires: Rotten Flesh IV",
+      "inputs": [
+        {
+          "id": "ROTTEN_FLESH",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_RUBY_VEILSHROOM",
+      "name": "Enchanted Ruby Veilshroom",
+      "unlock": "Requires: Ruby Veilshroom II",
+      "inputs": [
+        {
+          "id": "RUBY_VEILSHROOM",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SAND",
+      "name": "Enchanted Sand",
+      "unlock": "Requires: Sand V",
+      "inputs": [
+        {
+          "id": "SAND",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SEA_LUMIES",
+      "name": "Enchanted Sea Lumies",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "SEA_LUMIES",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SEEDS",
+      "name": "Enchanted Seeds",
+      "unlock": "Requires: Seeds III",
+      "inputs": [
+        {
+          "id": "SEEDS",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SHARK_FIN",
+      "name": "Enchanted Shark Fin",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "SHARK_FIN",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SHEARS",
+      "name": "Enchanted Shears",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "IRON_INGOT",
+          "count": 320
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SLIME_BALL",
+      "name": "Enchanted Slimeball",
+      "unlock": "Requires: Slimeball V",
+      "inputs": [
+        {
+          "id": "SLIME_BALL",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SLIME_BLOCK",
+      "name": "Enchanted Slime Block",
+      "unlock": "Requires: Slimeball VIII",
+      "inputs": [
+        {
+          "id": "SLIME_BALL",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SNOW_BLOCK",
+      "name": "Enchanted Snow Block",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "SNOW_BLOCK",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SPIDER_EYE",
+      "name": "Enchanted Spider Eye",
+      "unlock": "Requires: Spider Eye IV",
+      "inputs": [
+        {
+          "id": "SPIDER_EYE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SPONGE",
+      "name": "Enchanted Sponge",
+      "unlock": "Requires: Sponge III",
+      "inputs": [
+        {
+          "id": "SPONGE",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SPRUCE_LOG",
+      "name": "Enchanted Spruce Log",
+      "unlock": "Requires: Spruce Log VI",
+      "inputs": [
+        {
+          "id": "LOG:1",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_STRING",
+      "name": "Enchanted String",
+      "unlock": "Requires: String IV",
+      "inputs": [
+        {
+          "id": "STRING",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SUGAR",
+      "name": "Enchanted Sugar",
+      "unlock": "Requires: Sugar Cane IV",
+      "inputs": [
+        {
+          "id": "SUGAR_CANE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SUGAR_CANE",
+      "name": "Enchanted Sugar Cane",
+      "unlock": "Requires: Sugar Cane VIII",
+      "inputs": [
+        {
+          "id": "SUGAR_CANE",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SULPHUR",
+      "name": "Enchanted Sulphur",
+      "unlock": "Requires: Sulphur II",
+      "inputs": [
+        {
+          "id": "SULPHUR_ORE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SULPHUR_CUBE",
+      "name": "Enchanted Sulphur Cube",
+      "unlock": "Requires: Sulphur VI",
+      "inputs": [
+        {
+          "id": "SULPHUR_ORE",
+          "count": 25600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_SUNFLOWER",
+      "name": "Enchanted Sunflower",
+      "unlock": "Requires: Sunflower I",
+      "inputs": [
+        {
+          "id": "DOUBLE_PLANT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_TENDER_WOOD",
+      "name": "Enchanted Tender Wood",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "TENDER_WOOD",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_TITANIUM",
+      "name": "Enchanted Titanium",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "TITANIUM_ORE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_TUNGSTEN",
+      "name": "Enchanted Tungsten",
+      "unlock": "Requires: Tungsten II",
+      "inputs": [
+        {
+          "id": "TUNGSTEN",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_TURBO_GOURD",
+      "name": "Enchanted Turbo Gourd",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "TURBO_GOURD",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_UMBER",
+      "name": "Enchanted Umber",
+      "unlock": "Requires: Umber II",
+      "inputs": [
+        {
+          "id": "UMBER",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_VAMPIRIC_MELON",
+      "name": "Enchanted Vampiric Melon",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "VAMPIRIC_MELON",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_VINESAP",
+      "name": "Enchanted Vinesap",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "VINESAP",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_WATER_LILY",
+      "name": "Enchanted Lily Pad",
+      "unlock": "Requires: Lily Pad IV",
+      "inputs": [
+        {
+          "id": "WATER_LILY",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_WET_SPONGE",
+      "name": "Enchanted Wet Sponge",
+      "unlock": "Requires: Sponge VII",
+      "inputs": [
+        {
+          "id": "SPONGE",
+          "count": 1600
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_WHEAT",
+      "name": "Enchanted Wheat",
+      "unlock": "Requires: Wheat V",
+      "inputs": [
+        {
+          "id": "WHEAT",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_WILD_ROSE",
+      "name": "Enchanted Wild Rose",
+      "unlock": "Requires: Wild Rose I",
+      "inputs": [
+        {
+          "id": "WILD_ROSE",
+          "count": 160
+        }
+      ]
+    },
+    {
+      "output": "ENCHANTED_WOOL",
+      "name": "Enchanted Wool",
+      "unlock": "",
+      "inputs": [
+        {
+          "id": "WOOL",
+          "count": 160
+        }
+      ]
+    }
+  ]
+}
